@@ -8,8 +8,9 @@ My goal is to become a professional frontend developer and build real-world proj
 
 <p>
 <a href="https://www.linkedin.com/in/abdallah-matar-816079240/">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+
 
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github"/>
