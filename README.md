@@ -50,9 +50,7 @@ Currently focused on mastering Angular and building real-world projects to becom
 <li>Improve problem solving & clean code</li>
 </ul>
 
-<h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true"/>
 
 <h2>📫 Contact Me</h2>
 
