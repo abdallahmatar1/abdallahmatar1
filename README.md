@@ -11,7 +11,6 @@ Currently focused on mastering Angular and building real-world projects to becom
 <a href="https://github.com/abdallahmatar1"><img src="https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=white"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <h2>⚡ About Me</h2>
 
